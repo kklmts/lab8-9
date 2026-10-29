@@ -1,0 +1,8 @@
+Region,Countries,Avg_population_mln,Max_population_mln,Min_population_mln,Avg_GDP_per_capita,Avg_life_expectancy
+South Asia,6,267.57,1389.03,0.49,4128.91,73.51
+North America,3,122.64,330.23,0.06,75792.99,80.73
+East Asia & Pacific,37,63.14,1407.74,0.01,18039.46,73.47
+"Middle East, North Africa, Afghanistan & Pakistan",23,32.29,230.8,0.5,16093.8,75.3
+Sub-Saharan Africa,48,23.72,209.49,0.1,2516.03,62.58
+Europe & Central Asia,58,15.9,145.45,0.03,35575.12,78.79
+Latin America & Caribbean,42,15.26,207.46,0.03,15394.14,74.75
